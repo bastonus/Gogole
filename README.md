@@ -2,7 +2,7 @@
 
 Site humoristique parodique de la page d'accueil de Google Search
 
-Visitez www.search-google.cf
+Visitez www-google.tk
 
 Si vous voulez l'utiliser pour les nouveaux onglets, installer l'extension New tab override/redirect :
 - Pour Firefox : https://addons.mozilla.org/fr/firefox/addon/new-tab-override/
